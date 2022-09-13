@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Wahib
+- 👀 I’m interested in Front end web
+- 🌱 I’m currently learning front end web development
